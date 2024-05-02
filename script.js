@@ -9,9 +9,9 @@ link.innerText = 'Link Proz Educação';
 
 
 listaNaoOrdenada.innerHTML = `
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
+  <li>Conteudo textual 1</li>
+  <li>Conteudo textual 2</li>
+  <li>Coteudo textual 3</li>
 `;
 listaOrdenada.innerHTML = `
   <li><a href="https://youtube.com/">Link para Site 1</a></li>
