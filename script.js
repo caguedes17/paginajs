@@ -14,6 +14,6 @@ listaNaoOrdenada.innerHTML = `
   <li>Item 3</li>
 `;
 listaOrdenada.innerHTML = `
-  <li><a href="https://site1.com">Link para Site 1</a></li>
-  <li><a href="https://site2.com">Link para Site 2</a></li>
-  <li><a href="https://site3.com">Link para Site 3</a></li>
+  <li><a href="https://youtube.com/">Link para Site 1</a></li>
+  <li><a href="https://www.alura.com.br/">Link para Site 2</a></li>
+  <li><a href="https://www.impacta.edu.br/">Link para Site 3</a></li>
